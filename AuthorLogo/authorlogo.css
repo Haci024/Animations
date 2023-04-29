@@ -33,10 +33,10 @@ h2:before{
     left:0;
     width: 120%;
     height:100%;
-    background: linear-gradient(90deg,transparent 0%,#000 5%,#000 100%);
+    background: linear-gradient(90deg,transparent 0%,#000 10%,#000 90%);
     animation: animate 5s linear forwards;
     animation-delay:2s;
-    left: 1s;
+    left: 2s;
 }
 @keyframes animate
 {
